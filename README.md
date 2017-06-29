@@ -1,4 +1,4 @@
 # specimen-hybrides
 Workshop specimen hybrides eracom GR341 2017
 
-https://furter.github.io/specimen-hybrides/
+https://eracom.github.io/specimen-hybrides/
